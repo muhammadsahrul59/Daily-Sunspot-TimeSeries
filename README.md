@@ -3,7 +3,7 @@
 ## Project Description
 Embark on a journey through time with the Time Series Forecasting project, focusing on predicting daily sunspot activity from 1850 to 2023. This project harnesses the power of Long Short-Term Memory (LSTM) networks to capture temporal dependencies and provide accurate predictions.
 
-You can view or download the dataset in Kaggle : [Twitter Sentiment Analysis]( https://www.kaggle.com/datasets/patrickfleith/daily-sunspots-dataset )
+You can view or download the dataset in Kaggle : [Daily Sunspots Dataset (1850 - 2023)]( https://www.kaggle.com/datasets/patrickfleith/daily-sunspots-dataset )
 
 ## Key Features
 - **Large Dataset**: Boasting over 10,000 samples of daily sunspot data, this project provides an extensive dataset for robust time series forecasting.
@@ -17,7 +17,7 @@ You can view or download the dataset in Kaggle : [Twitter Sentiment Analysis]( h
 ```
 - Download the file above
 - open https://colab.research.google.com/
-- Upload the file Twitter_Sentiment_NLP.ipynb
+- Upload the file Daily_Sunspot_TimeSeries.ipynb
 ```
 or you can open it with this Google Colab Link below :
 
